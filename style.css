@@ -94,11 +94,11 @@ section .buttons{
     }
 }
 .offcanvas-body{
-    position: fixed;
+   overflow: auto;
     right: 0px;
     width: 350px;
     background-color: #fff;
-    margin-top: 80px;
+   
     
     
 }
